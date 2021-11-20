@@ -65,7 +65,7 @@ A Manhattan is a cocktail made with whiskey, sweet vermouth, and bitters. While 
 The Last Word is a gin-based prohibition-era cocktail originally developed at the Detroit Athletic Club.
 
 ### Last Word With Mezcal (How To Drink)
-![](img/last_word.png)
+![](img/how_to_drink.png)
 
 ### French 75
 ![](img/french_75.png)
